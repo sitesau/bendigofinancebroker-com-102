@@ -1,0 +1,22 @@
+{
+  "wheel_id": 631,
+  "structure": "umbrella",
+  "slug": "bendigofinancebroker-com-102",
+  "project": "finance-broker-bendigo-refinancing-227918adb3ea0bdf3f56ec3c8",
+  "parent_t1_ref": "bendigofinancebroker-com-150",
+  "node_role": "feeder",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "finance broker bendigo refinancing",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/finance-broker-bendigo-refinancing-227918adb3ea0bdf3f56ec3c8/",
+  "tier": "T2",
+  "writeback_nonce": "575cdbf6ec50eb9a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/finance-broker-bendigo-documents-needed-2d568c1a273ec5a6211bf91/",
+      "anchor": "a guide to finance broker bendigo documents needed",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
